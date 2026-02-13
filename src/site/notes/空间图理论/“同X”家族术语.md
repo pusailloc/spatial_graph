@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//x/"}
+{"dg-publish":true,"dg-permalink":"/spatial-graph-theory/homo-x-terminology/","permalink":"/spatial-graph-theory/homo-x-terminology/"}
 ---
 
 

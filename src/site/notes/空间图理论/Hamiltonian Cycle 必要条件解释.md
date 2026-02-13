@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//hamiltonian-cycle/"}
+{"dg-publish":true,"dg-permalink":"/spatial-graph-theory/hamiltonian-cycle-condition/","permalink":"/spatial-graph-theory/hamiltonian-cycle-condition/"}
 ---
 
 

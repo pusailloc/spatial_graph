@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//linking-number-via-seifert-surface/","tags":["math/topology","concept/explanation","paper/nikkuni"]}
+{"dg-publish":true,"dg-permalink":"/spatial-graph-theory/linking-number-seifert-surface/","permalink":"/spatial-graph-theory/linking-number-seifert-surface/","tags":["math/topology","concept/explanation","paper/nikkuni"]}
 ---
 
 

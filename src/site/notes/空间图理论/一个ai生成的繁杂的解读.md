@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//ai/","tags":["paper/nikkuni","math/spatial-graph-theory","study-note"]}
+{"dg-publish":true,"dg-permalink":"/spatial-graph-theory/ai-generated-interpretation/","permalink":"/spatial-graph-theory/ai-generated-interpretation/","tags":["paper/nikkuni","math/spatial-graph-theory","study-note"]}
 ---
 
 

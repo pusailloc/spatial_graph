@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//cycle-hamiltonian-cycle/","tags":["math/graph-theory","math/topology","concept/definition","paper/nikkuni"]}
+{"dg-publish":true,"dg-permalink":"/spatial-graph-theory/cycle-definition/","permalink":"/spatial-graph-theory/cycle-definition/","tags":["math/graph-theory","math/topology","concept/definition","paper/nikkuni"]}
 ---
 
 

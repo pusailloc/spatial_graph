@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//mastering-spatial-graphs-in-knot-theory/"}
+{"dg-publish":true,"dg-permalink":"/spatial-graph-theory/mastering-spatial-graphs/","permalink":"/spatial-graph-theory/mastering-spatial-graphs/"}
 ---
 
 

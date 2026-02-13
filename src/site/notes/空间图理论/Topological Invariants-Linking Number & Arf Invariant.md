@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//topological-invariants-linking-number-and-arf-invariant/","tags":["math/topology","knot-theory","concept/invariant","paper/conway-gordon","paper/adams-knot-book"]}
+{"dg-publish":true,"dg-permalink":"/spatial-graph-theory/topological-invariants/","permalink":"/spatial-graph-theory/topological-invariants/","tags":["math/topology","knot-theory","concept/invariant","paper/conway-gordon","paper/adams-knot-book"]}
 ---
 
 ## 1. Linking Number 

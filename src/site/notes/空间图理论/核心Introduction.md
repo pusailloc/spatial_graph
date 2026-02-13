@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//introduction/"}
+{"dg-publish":true,"dg-permalink":"/spatial-graph-theory/introduction/","permalink":"/spatial-graph-theory/introduction/"}
 ---
 
 

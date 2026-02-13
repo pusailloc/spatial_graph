@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//edge-disjoint-cycles/","tags":["math/graph-theory","concept/structure","paper/nikkuni"]}
+{"dg-publish":true,"dg-permalink":"/spatial-graph-theory/subgraph-definitions/","permalink":"/spatial-graph-theory/subgraph-definitions/","tags":["math/graph-theory","concept/structure","paper/nikkuni"]}
 ---
 
 

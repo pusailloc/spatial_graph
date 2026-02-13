@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//linking-number/","tags":["math/topology","knot-theory","concept/invariant","paper/nikkuni"]}
+{"dg-publish":true,"dg-permalink":"/spatial-graph-theory/linking-number/","permalink":"/spatial-graph-theory/linking-number/","tags":["math/topology","knot-theory","concept/invariant","paper/nikkuni"]}
 ---
 
 

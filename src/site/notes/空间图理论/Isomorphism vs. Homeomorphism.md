@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//isomorphism-vs-homeomorphism/","tags":["math/graph-theory","math/topology","concept/distinction","paper/nikkuni"]}
+{"dg-publish":true,"dg-permalink":"/spatial-graph-theory/isomorphism-vs-homeomorphism/","permalink":"/spatial-graph-theory/isomorphism-vs-homeomorphism/","tags":["math/graph-theory","math/topology","concept/distinction","paper/nikkuni"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//conway-gordon-sachs/","tags":["math/spatial-graph-theory","concept/theorem","paper/conway-gordon"]}
+{"dg-publish":true,"dg-permalink":"/spatial-graph-theory/conway-gordon-sachs-theorem/","permalink":"/spatial-graph-theory/conway-gordon-sachs-theorem/","tags":["math/spatial-graph-theory","concept/theorem","paper/conway-gordon"]}
 ---
 
 
